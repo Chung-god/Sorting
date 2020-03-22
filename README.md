@@ -4,3 +4,4 @@ Methods of Sorting
 2. Insertion Sorting 
 3. Heap Sort
 4. MergeSorting
+5. RadixSort 
